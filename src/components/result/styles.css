@@ -1,0 +1,28 @@
+.profile-tab {
+  margin: 10px 0px 10px 0px;
+  border: 1px solid #e0e0e0;
+  padding: 14px 3px;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.5);
+  height: 300px;
+  display: flex;
+}
+.profile-tab img {
+  width: 100%;
+  height: 100%;
+  border-radius: 2px;
+}
+
+.profile-tab .title {
+  font-size: 18px;
+}
+.profile-tab .name {
+  font-size: 18px;
+  cursor: pointer;
+  padding-left: 10px;
+  color: #027fff;
+  width: 100%;
+  word-wrap: break-word;
+  display: inline-block;
+}
